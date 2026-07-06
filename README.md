@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BSSE24040/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/BSSE24040/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BSSE24040/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/BSSE24040/LeetCode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/BSSE24040/LeetCode/tree/master/0704-binary-search) |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/BSSE24040/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
