@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/BSSE24040/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
