@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BSSE24040/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/BSSE24040/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/BSSE24040/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/BSSE24040/LeetCode/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/BSSE24040/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BSSE24040/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/BSSE24040/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/BSSE24040/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSSE24040/LeetCode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/BSSE24040/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/BSSE24040/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/BSSE24040/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/BSSE24040/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/BSSE24040/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -133,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BSSE24040/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BSSE24040/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
