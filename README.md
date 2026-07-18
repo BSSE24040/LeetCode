@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BSSE24040/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BSSE24040/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BSSE24040/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/BSSE24040/LeetCode/tree/master/0695-max-area-of-island) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/BSSE24040/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/BSSE24040/LeetCode/tree/master/0695-max-area-of-island) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BSSE24040/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BSSE24040/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BSSE24040/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
