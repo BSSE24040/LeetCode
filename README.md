@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BSSE24040/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/BSSE24040/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/BSSE24040/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/BSSE24040/LeetCode/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/BSSE24040/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BSSE24040/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BSSE24040/LeetCode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/BSSE24040/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0695-max-area-of-island](https://github.com/BSSE24040/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/BSSE24040/LeetCode/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BSSE24040/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/BSSE24040/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BSSE24040/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/BSSE24040/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/BSSE24040/LeetCode/tree/master/1046-last-stone-weight) |
@@ -273,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/BSSE24040/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BSSE24040/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BSSE24040/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
