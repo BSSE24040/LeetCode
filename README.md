@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BSSE24040/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/BSSE24040/LeetCode/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BSSE24040/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BSSE24040/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/BSSE24040/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BSSE24040/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BSSE24040/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BSSE24040/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
 ## Matrix
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BSSE24040/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/BSSE24040/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/BSSE24040/LeetCode/tree/master/1025-divisor-game) |
