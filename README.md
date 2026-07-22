@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/BSSE24040/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0695-max-area-of-island](https://github.com/BSSE24040/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/BSSE24040/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/BSSE24040/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/BSSE24040/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/BSSE24040/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BSSE24040/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BSSE24040/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/BSSE24040/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
 ## Matrix
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/BSSE24040/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
 ## Tree
 |  |
