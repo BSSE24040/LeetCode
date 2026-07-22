@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/BSSE24040/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BSSE24040/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/BSSE24040/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/BSSE24040/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/BSSE24040/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/BSSE24040/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/BSSE24040/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/BSSE24040/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/BSSE24040/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BSSE24040/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/BSSE24040/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/BSSE24040/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BSSE24040/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BSSE24040/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BSSE24040/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/BSSE24040/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BSSE24040/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BSSE24040/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BSSE24040/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BSSE24040/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BSSE24040/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BSSE24040/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/BSSE24040/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
