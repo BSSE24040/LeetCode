@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BSSE24040/LeetCode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/BSSE24040/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [3536-maximum-product-of-two-digits](https://github.com/BSSE24040/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/BSSE24040/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/BSSE24040/LeetCode/tree/master/1025-divisor-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/BSSE24040/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
 | ------- |
