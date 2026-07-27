@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BSSE24040/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BSSE24040/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/BSSE24040/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/BSSE24040/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/BSSE24040/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/BSSE24040/LeetCode/tree/master/0621-task-scheduler) |
 ## Sliding Window
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/BSSE24040/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/BSSE24040/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/BSSE24040/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/BSSE24040/LeetCode/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/BSSE24040/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/BSSE24040/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/BSSE24040/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BSSE24040/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/BSSE24040/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/BSSE24040/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/BSSE24040/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/BSSE24040/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/BSSE24040/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/BSSE24040/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/BSSE24040/LeetCode/tree/master/0973-k-closest-points-to-origin) |
