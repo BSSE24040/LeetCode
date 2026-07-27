@@ -8,7 +8,7 @@ public:
 
         for(int num : st) {
 
-            // start only from the beginning of a sequence
+           
             if(st.find(num - 1) == st.end()) {
 
                 int current = num;
