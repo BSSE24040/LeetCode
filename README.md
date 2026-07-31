@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BSSE24040/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/BSSE24040/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/BSSE24040/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/BSSE24040/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/BSSE24040/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/BSSE24040/LeetCode/tree/master/0127-word-ladder) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/BSSE24040/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/BSSE24040/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BSSE24040/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BSSE24040/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -378,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/BSSE24040/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BSSE24040/LeetCode/tree/master/0210-course-schedule-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
