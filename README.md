@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BSSE24040/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/BSSE24040/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BSSE24040/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/BSSE24040/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BSSE24040/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/BSSE24040/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -386,8 +387,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/BSSE24040/LeetCode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/BSSE24040/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
