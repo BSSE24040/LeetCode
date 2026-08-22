@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BSSE24040/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/BSSE24040/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/BSSE24040/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/BSSE24040/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/BSSE24040/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/BSSE24040/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BSSE24040/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BSSE24040/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/BSSE24040/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BSSE24040/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BSSE24040/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/BSSE24040/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BSSE24040/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/BSSE24040/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/BSSE24040/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BSSE24040/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/BSSE24040/LeetCode/tree/master/0695-max-area-of-island) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/BSSE24040/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/BSSE24040/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BSSE24040/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BSSE24040/LeetCode/tree/master/0101-symmetric-tree) |
@@ -402,5 +406,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/BSSE24040/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/BSSE24040/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BSSE24040/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/BSSE24040/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/BSSE24040/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
