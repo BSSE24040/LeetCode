@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/BSSE24040/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/BSSE24040/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BSSE24040/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/BSSE24040/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/BSSE24040/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/BSSE24040/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/BSSE24040/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/BSSE24040/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/BSSE24040/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/BSSE24040/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/BSSE24040/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
