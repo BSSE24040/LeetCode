@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BSSE24040/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/BSSE24040/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BSSE24040/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/BSSE24040/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1025-divisor-game](https://github.com/BSSE24040/LeetCode/tree/master/1025-divisor-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BSSE24040/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BSSE24040/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BSSE24040/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/BSSE24040/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BSSE24040/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/BSSE24040/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BSSE24040/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/BSSE24040/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/BSSE24040/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/BSSE24040/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BSSE24040/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
